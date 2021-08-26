@@ -1,14 +1,17 @@
 /*
 Creator: Yashpreet kundlas
-Date created: 2021-08-14
-date last modified: 2021-08-14
+Date created: 2021-08-25
+date last modified: 2021-08-25
 */
 
-header, footer {
-	background-color: #EF8354;
-	font-family: Comic Sans MS, helvetica, sans-serif;
-	color: #ffffff;
+
+
+
+footer {
+	background-color: #eee;
+    color: #000000;
 	height: 100px;
 	text-align: center;
 	padding: 20px 10px 20px 10px;
 }
+	
